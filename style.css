@@ -16,3 +16,8 @@ h2{
 p{
     text-align: center
 }
+.career-objective p {
+    text-align: left;
+    margin-left: 0;
+    margin-right: 0;
+}
